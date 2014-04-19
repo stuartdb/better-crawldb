@@ -1,0 +1,32 @@
+@-moz-document domain('loom.shalott.org'){
+
+    * {
+        background-color : #000000;
+    }
+    h1 {
+        color: #ffffff;
+    }
+    .note {
+        color: #ffffff;
+    }
+    dt {
+        background-color: #000000;
+        color: #ffffff;
+    }
+    dd {
+        background-color: #000000;
+        color: #ffffff;
+    }
+    a {
+        color: #ffffff;
+    }
+    ol {
+        color: #ffffff;
+    }
+    li {
+        color: #ffffff;
+    }
+    li span {
+        color: #ffffff;
+    }
+}
