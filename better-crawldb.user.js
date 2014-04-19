@@ -16,7 +16,8 @@
         titles = document.getElementsByTagName('dt');
 
     for (i = 0; i < titles.length; i += 1) {
-        titles[i].textContent = pre + titles[i].textContent;
+        titles[i].lastChild.textContent = pre +
+            titles[i].lastChild.textContent;
     }
 
 }());
