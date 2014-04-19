@@ -24,7 +24,10 @@ Inverted Theme
 
 You will need to have the [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/) addon installed.
 
-Add the following remote url into stylish ```https://github.com/stuartdb/better-crawldb/raw/master/invert-crawldb.css```
+Save the ```invert-crawldb.css``` file from this repository somewhere on your computer.
+Install the style by putting the file locations into Stylish 'Install from URLS prompt'.
+
+Alternatively, since the style is so small, you may also just copy and paste the contents manually into Stylish.
 
 License
 -------
