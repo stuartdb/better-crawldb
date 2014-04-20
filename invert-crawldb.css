@@ -3,6 +3,9 @@
     * {
         background-color : #000000;
     }
+    body {
+        max-width : 800px;
+    }
     h1 {
         color: #ffffff;
     }
