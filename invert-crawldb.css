@@ -5,6 +5,7 @@
     }
     body {
         max-width : 800px;
+        word-wrap : break-word;
     }
     h1 {
         color: #ffffff;
