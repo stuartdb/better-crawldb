@@ -1,4 +1,4 @@
-Better CrawlDB
+better-crawldb
 ==============
 
 ![better-crawldb screenshot](https://github.com/stuartdb/better-crawldb/raw/master/img/readme.png)
@@ -32,4 +32,4 @@ Alternatively, since the style is so small, you may also just copy and paste the
 License
 -------
 
-Better CrawlDB is released into the public domain.
+better-crawldb is released into the public domain.
